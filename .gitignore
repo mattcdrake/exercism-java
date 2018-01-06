@@ -1,6 +1,6 @@
-*/.gradle/*
-*/build/*
-*/build.gradle
+**/.gradle/*
+**/build/*
+**/build.gradle
 
 # Compiled class file
 *.class
