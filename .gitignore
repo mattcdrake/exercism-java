@@ -1,7 +1,7 @@
 **/.gradle/*
 **/build/*
 **/build.gradle
-
+hello-world/build/*
 # Compiled class file
 *.class
 
